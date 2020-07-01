@@ -38,6 +38,7 @@ nav ul{
 nav li{
   display: inline;
   font-size: 32px;
+  text-align:center;
 }
 footer{
 	text-align: center;
