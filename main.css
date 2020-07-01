@@ -37,6 +37,7 @@ nav ul{
 
 nav li{
   display: inline;
+  font-size: 32px;
 }
 footer{
 	text-align: center;
