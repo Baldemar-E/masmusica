@@ -37,7 +37,7 @@ nav ul{
 
 nav li{
   display: inline;
-  font-family:'Bebas Neue', cursive;
+  font-family:'Bebas Neue', cursive; color: rgb(255, 255, 255);
   font-size: 32px;
   text-align: center;
 }
@@ -49,7 +49,7 @@ footer{
 }
 
 nav a:link {
-font-family:'Bebas Neue', cursive;  color:rgba(255, 255, 255);
+font-family:'Bebas Neue', cursive;  color:rgb(255, 255, 255);
   text-decoration: none;
   margin-right: 50px;
   text-align: center;
