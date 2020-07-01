@@ -36,3 +36,46 @@ nav ul{
 nav li{
   display: inline;
 }
+footer{
+	text-align: center;
+	clear:both;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+
+}
+
+nav a:link {
+font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  color:rgba(104,104,104,.75);
+  text-decoration: none;
+  margin-right: 20px;
+
+}
+
+nav a:visited {
+
+}
+
+nav a:hover {
+  color:rgba(104,104,104,1);
+}
+
+nav a:active {
+  text-decoration: underline;
+}
+
+.left{
+	width: 400px;
+	float:left;
+	margin-top:30px;
+	margin-bottom: 30px;
+
+}
+
+.right{
+	width: 400px;
+	float:left;
+	margin-left: 30px;
+	margin-top:30px;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-size: 18px;
+}
