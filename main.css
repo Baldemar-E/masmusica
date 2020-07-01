@@ -8,7 +8,7 @@ body{
 
 }
 #wrapper{
-  width: 80%;
+  width: auto%;
   margin:@auto;
 }
 header{
