@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 body{
-  background: img src="images/satower.jpg"; no-repeat;
+  background-image: url("images/satower.jpg");
   background-size:cover;
 
 }
