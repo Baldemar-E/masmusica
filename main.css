@@ -3,7 +3,7 @@
 body{
   background-image: url("images/satower.jpg");
   background-size:cover;
-  
+
 
 }
 #wrapper{
@@ -74,7 +74,7 @@ nav a:active {
 
 .right{
 	width: 400px;
-	float:left;
+	float:right;
 	margin-left: 50px;
 	margin-top:30px;
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
