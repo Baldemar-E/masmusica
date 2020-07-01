@@ -37,7 +37,7 @@ nav ul{
 
 nav li{
   display: inline;
-  font-family:'Bebas Neue', cursive; color: rgb(255, 255, 255);
+  font-family:'Bebas Neue', cursive; color: rgba(255, 0, 0, 0.5);
   font-size: 32px;
   text-align: center;
 }
