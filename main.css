@@ -8,7 +8,7 @@ body{
 
 }
 #wrapper{
-  width1000px;
+  width:100%;
   margin:@auto;
 }
 header{
