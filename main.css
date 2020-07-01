@@ -64,7 +64,7 @@ nav a:active {
   text-decoration: underline;
 }
 
-.left{
+left{
 	width: 400px;
 	float:left;
 	margin-top:30px;
@@ -72,7 +72,7 @@ nav a:active {
 
 }
 
-.right{
+right{
 	width: 400px;
 	float:right;
 	margin-left: 50px;
