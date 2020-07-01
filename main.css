@@ -76,7 +76,7 @@ nav a:active {
 
 .right{
 	width: 300px;
-	float:right;
+	float:left;
 	margin-left: 5px;
 	margin-top:30px;
 	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
